@@ -336,6 +336,10 @@ body {
     margin-bottom: 12px;
 }
 
+.email-form {
+    position: relative;
+}
+                
 .email-form input {
     background-color: #4A5459;
     border: none;
@@ -349,6 +353,10 @@ body {
 .email-form input::placeholder {
     color: #D9DBE1;
 }
-.send{
-    margin-right: 10;
+
+.send {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
 }
