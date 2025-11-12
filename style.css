@@ -38,7 +38,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 1110px;
+    width: 1250px;
     margin: 0 auto;
     gap: 104px;
 }
@@ -135,7 +135,7 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 80px;
-    width: 1110px;
+    width: 1250px;
     margin: 0 auto;
 }
 
@@ -196,7 +196,7 @@ body {
 }
 
 .blog-block .container {
-    width: 1110px;
+    width: 1250px;
     margin: 0 auto;
     text-align: center;
 }
@@ -360,6 +360,7 @@ body {
     right: 10px;
     top: 25%;
 }
+
 
 
 
