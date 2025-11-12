@@ -312,7 +312,7 @@ body {
 
 .footer-right {
     display: flex;
-    gap: 60px;
+    gap: 115px;
 }
 
 .footer-column {
@@ -358,5 +358,6 @@ body {
     right: 10px;
     top: 25%;
 }
+
 
 
