@@ -293,11 +293,21 @@ body {
 }
 
 .footer-left .logo {
+    
     margin-bottom: 32px;
+    display: flex; 
+    align-items: center; 
+    gap: 8px;
+}
+
+.footer-left .logo img {
+    height: 40px;
 }
 
 .footer-left .logo span {
     color: #FFFFFF;
+    font-size: 28px;
+    font-weight: 700;
 }
 
 .footer-left p {
@@ -309,7 +319,7 @@ body {
 .social-links {
     display: flex;
     gap: 16px;
-    margin-top: 32px;
+    margin-top: 40px;
 }
 
 .footer-right {
